@@ -1,6 +1,8 @@
 # CheatSheets
 
-Repository for everything I look up more than twice
+I have a _terrible_ memory, so this is a repo for everything I look up more than twice.
+
+Inspired by @devmount.
 
 ## TOC
 
