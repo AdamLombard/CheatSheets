@@ -5,8 +5,6 @@ Inspired by [@devmount](https://github.com/devmount/).
 
 ## TOC
 
-- [Bash](./bash.md)
 - [Git](./git.md)
 - [NPM](./npm.md)
 - [Visual Studio Code](./vscode.md)
-- [Yarn](./yarn.md)
