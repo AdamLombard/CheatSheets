@@ -1,6 +1,7 @@
 # CheatSheets
 
-I have a _terrible_ memory, so this is a repo for anything I need to look up more than once.
+I have a _terrible_ memory. This is a repo for commands and shortcuts I need to look up more than once. :)
+
 Inspired by [@devmount](https://github.com/devmount/).
 
 ## TOC
